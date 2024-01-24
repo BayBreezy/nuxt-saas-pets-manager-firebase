@@ -1,0 +1,28 @@
+{
+  "recommendations": [
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "streetsidesoftware.code-spell-checker",
+    "naumovs.color-highlight",
+    "adam-bender.commit-message-editor",
+    "dotenv.dotenv-vscode",
+    "mrmlnc.vscode-duplicate",
+    "usernamehw.errorlens",
+    "codezombiech.gitignore",
+    "eamodio.gitlens",
+    "antfu.goto-alias",
+    "antfu.iconify",
+    "zignd.html-css-class-completion",
+    "pkief.material-icon-theme",
+    "idered.npm",
+    "mskelton.npm-outdated",
+    "nuxtr.nuxtr-vscode",
+    "esbenp.prettier-vscode",
+    "yoavbls.pretty-ts-errors",
+    "natqe.reload",
+    "bradlc.vscode-tailwindcss",
+    "jvitor83.typings-autoinstaller",
+    "matijao.vue-nuxt-snippets",
+    "vue.volar"
+  ]
+}

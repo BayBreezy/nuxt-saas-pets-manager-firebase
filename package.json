@@ -33,7 +33,7 @@
   "dependencies": {
     "@firebase/app-types": "^0.9.0",
     "@morev/vue-transitions": "^2.3.6",
-    "@vee-validate/nuxt": "^4.12.4",
+    "@vee-validate/nuxt": "^4.12.5",
     "@vee-validate/yup": "^4.12.4",
     "@vueform/multiselect": "^2.6.6",
     "firebase": "^10.7.2",

@@ -21,7 +21,7 @@
     "@nuxtjs/tailwindcss": "^6.11.4",
     "@vueuse/core": "^10.7.2",
     "@vueuse/nuxt": "^10.7.2",
-    "nuxt": "^3.10.1",
+    "nuxt": "^3.10.2",
     "nuxt-icon": "^0.6.8",
     "prettier": "^3.2.5",
     "prettier-plugin-tailwindcss": "^0.5.11",

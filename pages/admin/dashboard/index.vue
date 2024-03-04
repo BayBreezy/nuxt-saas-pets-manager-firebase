@@ -70,7 +70,7 @@
 
   const q = query(collection(db, collectionName), where("userId", "==", user.value?.uid));
 
-  const { data: pets, pending } = useCollection<Pet>(q);
+  const { data: pets, pending } = useCollection<Pet>(q, { ssrKey: useId() });
 
   const logout = async () => {
     await signOut(auth!);

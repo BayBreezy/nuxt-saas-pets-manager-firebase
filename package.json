@@ -22,7 +22,7 @@
     "@vueuse/core": "^10.9.0",
     "@vueuse/nuxt": "^10.9.0",
     "nuxt": "^3.10.3",
-    "nuxt-icon": "^0.6.8",
+    "nuxt-icon": "^0.6.9",
     "prettier": "^3.2.5",
     "prettier-plugin-tailwindcss": "^0.5.11",
     "tailwindcss-animate": "^1.0.7",

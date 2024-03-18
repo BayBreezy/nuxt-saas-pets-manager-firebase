@@ -36,7 +36,7 @@
     "@vee-validate/nuxt": "^4.12.6",
     "@vee-validate/yup": "^4.12.6",
     "@vueform/multiselect": "^2.6.6",
-    "firebase": "^10.8.1",
+    "firebase": "^10.9.0",
     "firebase-admin": "^11.11.1",
     "firebase-functions": "^4.8.0",
     "nuxt-vuefire": "^1.0.2",

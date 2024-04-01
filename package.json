@@ -38,7 +38,7 @@
     "@vueform/multiselect": "^2.6.7",
     "firebase": "^10.9.0",
     "firebase-admin": "^11.11.1",
-    "firebase-functions": "^4.8.1",
+    "firebase-functions": "^4.8.2",
     "nuxt-vuefire": "^1.0.2",
     "radix-vue": "^1.5.3",
     "tailwind-variants": "^0.2.1",

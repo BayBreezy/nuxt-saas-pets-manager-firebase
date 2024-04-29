@@ -40,7 +40,7 @@
     "firebase-admin": "^11.11.1",
     "firebase-functions": "^4.9.0",
     "nuxt-vuefire": "^1.0.2",
-    "radix-vue": "^1.7.1",
+    "radix-vue": "^1.7.3",
     "tailwind-variants": "^0.2.1",
     "vue-sonner": "^1.1.2",
     "vuefire": "^3.1.23",

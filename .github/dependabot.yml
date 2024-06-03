@@ -9,3 +9,7 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "weekly"
+    ignore:
+      - dependency-name: "firebase"
+      - dependency-name: "firebase-admin"
+      - dependency-name: "firebase-functions"

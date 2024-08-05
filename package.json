@@ -34,7 +34,7 @@
     "@firebase/app-types": "^0.9.2",
     "@morev/vue-transitions": "^3.0.2",
     "@vee-validate/nuxt": "^4.13.2",
-    "@vee-validate/yup": "^4.13.1",
+    "@vee-validate/yup": "^4.13.2",
     "@vueform/multiselect": "^2.6.9",
     "firebase": "10.11.1",
     "firebase-admin": "11.11.1",

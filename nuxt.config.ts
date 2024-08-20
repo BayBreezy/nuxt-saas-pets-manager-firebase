@@ -10,9 +10,11 @@ export default defineNuxtConfig({
     "@vee-validate/nuxt",
     "@morev/vue-transitions/nuxt",
   ],
+
   tailwindcss: { exposeConfig: true },
   colorMode: { classSuffix: "" },
   typescript: { shim: false },
+
   imports: {
     imports: [
       { from: "tailwind-variants", name: "tv" },
@@ -20,12 +22,14 @@ export default defineNuxtConfig({
       { from: "vue-sonner", name: "toast", as: "useSonner" },
     ],
   },
+
   app: {
     head: {
       title: "Nuxt Petz",
       titleTemplate: "%s - Nuxt Petz",
     },
   },
+
   vuefire: {
     auth: { enabled: true, sessionCookie: true },
     config: {
@@ -39,4 +43,5 @@ export default defineNuxtConfig({
   },
 
   build: { transpile: ["vue-sonner"] },
+  compatibilityDate: "2024-08-20",
 });

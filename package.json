@@ -41,7 +41,7 @@
     "firebase-functions": "5.1.1",
     "nuxt-vuefire": "^1.0.4",
     "radix-vue": "^1.9.9",
-    "tailwind-variants": "^0.2.1",
+    "tailwind-variants": "^0.3.0",
     "vue-sonner": "^1.2.5",
     "vuefire": "^3.2.0",
     "yup": "^1.4.0"

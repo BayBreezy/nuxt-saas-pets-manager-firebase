@@ -31,7 +31,7 @@
     "vue-router": "^4.4.5"
   },
   "dependencies": {
-    "@firebase/app-types": "^0.9.2",
+    "@firebase/app-types": "^0.9.3",
     "@morev/vue-transitions": "^3.0.5",
     "@vee-validate/nuxt": "^4.14.7",
     "@vee-validate/yup": "^4.14.7",

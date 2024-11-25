@@ -9,7 +9,11 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "weekly"
+      day: "sunday"
+      time: "06:00"
+      timezone: "America/Jamaica"
     ignore:
       - dependency-name: "firebase"
       - dependency-name: "firebase-admin"
       - dependency-name: "firebase-functions"
+

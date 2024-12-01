@@ -19,16 +19,16 @@
     "@ianvs/prettier-plugin-sort-imports": "^4.4.0",
     "@nuxtjs/color-mode": "^3.5.2",
     "@nuxtjs/tailwindcss": "^6.12.2",
-    "@vueuse/core": "^11.3.0",
-    "@vueuse/nuxt": "^11.3.0",
+    "@vueuse/core": "^12.0.0",
+    "@vueuse/nuxt": "^12.0.0",
     "nuxt": "^3.14.1592",
     "nuxt-icon": "^0.6.10",
-    "prettier": "^3.3.3",
+    "prettier": "^3.4.1",
     "prettier-plugin-tailwindcss": "^0.6.9",
     "tailwindcss-animate": "^1.0.7",
     "typescript": "^5.7.2",
     "vue": "^3.5.13",
-    "vue-router": "^4.4.5"
+    "vue-router": "^4.5.0"
   },
   "dependencies": {
     "@firebase/app-types": "^0.9.3",
